@@ -15,7 +15,6 @@
   </a>
 </p>
 
-
 ## About me
 
 I’m a senior Web3 engineer and full‑stack developer focused on high‑impact blockchain products and AI‑augmented experiences. I ship secure smart‑contract systems, performant dApps, and polished UIs with a strong emphasis on reliability, scalability, and developer ergonomics.
